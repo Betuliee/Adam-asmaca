@@ -1,6 +1,6 @@
 <h1> Adam Asmaca </h1>
 
-<h1> Kullanılan Teknolojiler </h1>
+<h1> Kullanılan Teknolojile </h1>
 
 HTML5
 
